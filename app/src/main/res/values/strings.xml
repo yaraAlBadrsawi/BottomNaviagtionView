@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="home">Hone</string>
+    <string name="notification">Notification</string>
+    <string name="search_fragment">Search Fragment</string>
+</resources>
